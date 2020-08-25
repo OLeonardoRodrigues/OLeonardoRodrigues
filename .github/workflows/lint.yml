@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    
+    - name: MarkdownLint mdl Action
+      # You may pin to the exact commit or the version.
+      # uses: actionshub/markdownlint@fc5678687e9328d425848ceb9e80fe67ade76a99
+      uses: actionshub/markdownlint@1.2.2
+      with:
+        # Path to scan for markdown files within the directory (and nested directories), note: cannot be used with filesToIgnore input
+        path: README.md
