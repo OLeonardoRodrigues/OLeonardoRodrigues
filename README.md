@@ -1,4 +1,16 @@
-# Hi there 👋
+# Who am I?
+
+**Leonardo Oliveira, 20**:
+- student 🎓
+- automation enforcer 🦾
+- enthusiast 🚀
+- team worker ("apes together, strong" 🐵)
+- book nerd 📚
+- movie nerd 🎞️
+- tech nerd 💻
+- science nerd 🧪
+- history nerd 📜
+- sci-fi nerd 🤖
 
 <!--
 **OliveiraLeonardo17/OliveiraLeonardo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
