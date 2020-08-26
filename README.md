@@ -1,6 +1,6 @@
 # Who am I?
 
-**Leonardo Oliveira, 20**:
+**I'm a 20 year old who also is**:
 - student 🎓
 - automation enforcer 🦾
 - enthusiast 🚀
