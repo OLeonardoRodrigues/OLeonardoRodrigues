@@ -1,6 +1,6 @@
 # Who am I?
 
-**I'm a 20 year old who is also**:
+**I'm a 20 year old who is also a:**
 - student 🎓
 - automation enforcer 🦾
 - enthusiast 🚀
