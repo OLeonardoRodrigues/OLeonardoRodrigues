@@ -15,11 +15,12 @@
   <li>sci-fi nerd 🤖</li>
 </ul>
 </details>
-
-<strong>You can find me here:</strong><br/>
+<details>
+<summary><strong>You can find me here:</strong><br/></summary>
 <a href="https://dev.to/oliveiraleonardo17" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leonardo Oliveira's DEV Profile" height="30" width="30">
 </a>
 <a href="https://www.linkedin.com/in/lro/" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Leonardo Oliveira's LinkedIn Profile" height="30" width="30">
 </a>
+</details>
