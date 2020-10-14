@@ -18,13 +18,18 @@
 
 <details>
   <summary><strong>My other profiles:</strong><br/></summary>
-  <a href="https://www.linkedin.com/in/lro/" target="_blank">
-    linkedin.com/in/lro/
-  </a>
-  <br/>
-  <a href="https://dev.to/oliveiraleonardo17" target="_blank">
-    dev.to/oliveiraleonardo17
-  </a>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/lro/" target="_blank">
+        linkedin.com/in/lro/
+      </a>
+    </li>
+    <li>
+      <a href="https://dev.to/oliveiraleonardo17" target="_blank">
+        dev.to/oliveiraleonardo17
+      </a>
+    </li>
+  </ul>
 </details>
 
 <strong>My nice Profile Pic is a drawing by <a href="https://www.instagram.com/krepixie/" target="_blank">@Krepxie</a>!</strong>
