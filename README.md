@@ -32,3 +32,5 @@
     dev.to/oliveiraleonardo17
   </a>
 </details>
+
+<strong>My nice GitHub Profile Pic is a drawing by <a href="https://www.instagram.com/krepixie/" target="_blank">@Krepxie</a>!</strong>
