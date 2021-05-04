@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+      - name: Run a multi-line script
+        run: chmod +x set_age.sh
       - name: Run a multi-line script
         run: ./set_age.sh
       
