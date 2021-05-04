@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Commit report
+      - name: Update Age
         run: |
           chmod +x set_age.sh
           ./set_age.sh
