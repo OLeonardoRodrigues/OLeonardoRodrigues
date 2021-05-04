@@ -1,7 +1,7 @@
 <h1>Who am I?</h1>
 
 <details>
-  <summary><strong>I'm a 20 year old, who is also a:</strong></summary>
+  <summary><strong>I'm a 21 year old, who is also a:</strong></summary>
   <ul>
     <li>student 🎓</li>
     <li>automation enforcer 🦾</li>
