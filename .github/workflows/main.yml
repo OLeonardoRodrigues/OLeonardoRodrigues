@@ -14,12 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Run a multi-line script
-        run: chmod +x set_age.sh
-      - name: Run a multi-line script
-        run: ./set_age.sh
       - name: Commit report
         run: |
+          chmod +x set_age.sh
+          ./set_age.sh
           git config --global user.name 'OliveiraLeonardo17'
           git config --global user.email 'oliveiraleonardo17@users.noreply.github.com'
           git commit -am "Automated report"
