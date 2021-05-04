@@ -22,6 +22,8 @@ jobs:
         # You may pin to the exact commit or the version.
         # uses: filipstefansson/uuid-action@ce29ebbb0981ac2448c2e406e848bfaa30ddf04c
         uses: filipstefansson/uuid-action@v1.1
+        with:
+          name: tagid
       - name: Commit report
         run: |
           git config --global user.name 'OliveiraLeonardo17'
