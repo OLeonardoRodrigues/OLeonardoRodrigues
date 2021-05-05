@@ -3,6 +3,7 @@ on:
   schedule:
     - cron:  '0 1 27 12 *'
   push:
+    paths: "README.md"
     tags-ignore: "auto-*"
     branches: [ master ]
   pull_request:
