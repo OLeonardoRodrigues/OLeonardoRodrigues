@@ -19,8 +19,8 @@ jobs:
         run: |
           chmod +x set_age.sh
           ./set_age.sh
-          git config --global user.name 'OliveiraLeonardo17'
-          git config --global user.email 'oliveiraleonardo17@users.noreply.github.com'
-          git commit -am "Automated report"
+          git config --global user.name 'OLeonardoRodrigues'
+          git config --global user.email 'oleonardorodrigues@users.noreply.github.com'
+          git commit -am "Age Updated"
           git tag auto-$(date +%s)
           git push --tags -u origin master
