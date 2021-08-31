@@ -31,5 +31,3 @@
     </li>
   </ul>
 </details>
-
-<strong>My nice Profile Pic is a drawing by <a href="https://www.instagram.com/krepixie/" target="_blank">@Krepxie</a>!</strong>
