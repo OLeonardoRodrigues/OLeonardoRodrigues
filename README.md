@@ -1,4 +1,5 @@
 <h1>Who am I?</h1>
+<h2>Leonardo Rodrigues de Oliveira</h2>
 
 <details>
   <summary><strong>I'm a <span id='age'>21</span> year old, who is also a:</strong></summary>
@@ -30,4 +31,4 @@
       </a>
     </li>
   </ul>
-</details>
+</details> 
