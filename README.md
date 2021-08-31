@@ -7,7 +7,7 @@
     <li>student 🎓</li>
     <li>automation enforcer 🦾</li>
     <li>enthusiast 🚀</li>
-    <li>team worker ("apes together, strong" 🐵)</li>
+    <li>team worker ("apes together, <strong>strong</strong>" 🐵)</li>
     <li>book nerd 📚</li>
     <li>movie nerd 🎞️</li>
     <li>tech nerd 💻</li>
@@ -31,4 +31,4 @@
       </a>
     </li>
   </ul>
-</details> 
+</details>
