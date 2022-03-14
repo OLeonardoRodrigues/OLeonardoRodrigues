@@ -18,6 +18,22 @@
 </details>
 
 <details>
+  <summary><strong>My talks/presentations:</strong><br/></summary>
+  <ul>
+    <li>
+      <a href="https://www.youtube.com/watch?v=jQszqzCEhFk&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=19" target="_blank">
+        <strong>HashiTalks Brasil 2021:</strong> Terraform Avançado: Usando Objetos
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/Qfp8Jv78yt8" target="_blank">
+        <strong>HashiTalks 2022:</strong> Writing High Quality Terraform Modules for Exponential Organizations
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>My other profiles:</strong><br/></summary>
   <ul>
     <li>
