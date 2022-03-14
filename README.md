@@ -2,7 +2,7 @@
 <h2>Leonardo Rodrigues de Oliveira</h2>
 
 <details>
-  <summary><strong>I'm a <span id='age'>21</span> year old, who is also a:</strong></summary>
+  <summary><strong>I'm a <span id='age'>22</span> year old, who is also a:</strong></summary>
   <ul>
     <li>student 🎓</li>
     <li>automation enforcer 🦾</li>
