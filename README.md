@@ -55,6 +55,16 @@
         <strong>Pub Dev Academy #3:</strong> DOCKER - Conceito e Aplicação
       </a>
     </li>
+    <li>
+      <a href="https://youtu.be/2zx4T10_OBc" target="_blank">
+        <strong>Casos de TI #12:</strong> O FULLSTACK, ONDE HABITAM?
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/D1EPCpnZooE" target="_blank">
+        <strong>Casos de TI #08:</strong> EU SÓ USO A MASTER!
+      </a>
+    </li>
   </ul>
 </details>
 
