@@ -21,13 +21,38 @@
   <summary><strong>My talks/presentations:</strong><br/></summary>
   <ul>
     <li>
+      <a href="https://youtu.be/Qfp8Jv78yt8" target="_blank">
+        <strong>HashiTalks 2022:</strong> Writing High Quality Terraform Modules for Exponential Organizations
+      </a>
+    </li>
+    <li>
       <a href="https://www.youtube.com/watch?v=jQszqzCEhFk&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=19" target="_blank">
         <strong>HashiTalks Brasil 2021:</strong> Terraform Avançado: Usando Objetos
       </a>
     </li>
     <li>
-      <a href="https://youtu.be/Qfp8Jv78yt8" target="_blank">
-        <strong>HashiTalks 2022:</strong> Writing High Quality Terraform Modules for Exponential Organizations
+      <a href="https://youtu.be/yjUKTm4JTAQ" target="_blank">
+        <strong>Pub Dev Academy #8:</strong> Terraform - Módulos de alta qualidade para grandes organizações
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/dWfHOpSbL0I" target="_blank">
+        <strong>PubDev Academy #6:</strong> Twelve Factor - Conceito e Aplicação
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/pghzIQAdIeA" target="_blank">
+        <strong>Pub Dev Academy #5:</strong> Kubernetes - Conceito e Aplicação
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/0mUhGyNM_oE" target="_blank">
+        <strong>Pub Dev Academy #4:</strong> GIT - Conceito e Aplicação
+      </a>
+    </li>
+    <li>
+      <a href="https://youtu.be/rdWCY0h-xYA" target="_blank">
+        <strong>Pub Dev Academy #3:</strong> DOCKER - Conceito e Aplicação
       </a>
     </li>
   </ul>
